@@ -28,7 +28,7 @@ registeredusers = [n[0] for n in idlist]
 client = TelegramClient('session', api_id=api_id, api_hash=api_hash).start()
 
 # Starting Bot
-bot = telebot.TeleBot(token='1094295882:AAEF0PwOQKL88K6L5zslnpxKxWCGnfd0s3Q')
+bot = telebot.TeleBot(token='792887469:AAGsfxVGJrp1bBa2lFhkhLWh6vLzueQZedM')
 print("Ready")
 
 @bot.message_handler(commands=['start'])
