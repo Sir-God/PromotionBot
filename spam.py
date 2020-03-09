@@ -12,8 +12,8 @@ import random
 import csv
 
 # Defining the needed variables
-api_id = '683428'
-api_hash = '967b28d111f82b906b6f28da1ff04411'
+api_id = '1042228'
+api_hash = 'ff5f1d9c59cce49a27d4c5737e47529e'
 customMsg = ''
 targetGrp = ''
 user = ''
